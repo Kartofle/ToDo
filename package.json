@@ -25,5 +25,8 @@
     "ejs": "^2.5.7",
     "express": "^4.16.2",
     "mongoose": "^4.13.9"
+  },
+  "dependencies": {
+    "eslint": "^4.15.0"
   }
 }
